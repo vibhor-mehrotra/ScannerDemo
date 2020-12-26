@@ -9,7 +9,7 @@ import UIKit
 import Scanner
 
 class ScannerDemoVC: UIViewController {
-    //MARK: - Private constants
+        //MARK: - Private constants
     
     //Alert body
     private let errorAlertTitle = "Error"
@@ -46,6 +46,10 @@ class ScannerDemoVC: UIViewController {
             }
             self.showAlertView(title: self.successAlertTitle, message: scannedTexts.joined(separator: "\n"), firstBtnTitle: self.ok)
         }
+    }
+    
+    @IBAction private func showScannerTapped(_ sender: UIButton){
+        showScanner()
     }
 }
 
