@@ -1,0 +1,25 @@
+{
+  "name": "Scanner",
+  "version": "1.0.0",
+  "summary": "A simple application to extract text from Images",
+  "description": "Scanner is a lightweight application that can be used to extract text from images in a super simple manner.",
+  "homepage": "https://github.com/vibhor-mehrotra/Scanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VIBHOR MEHROTRA": "vibhormehrotra02@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://github.com/vibhor-mehrotra/Scanner.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "Scanner/**/*.{swift}",
+  "resources": "Scanner/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

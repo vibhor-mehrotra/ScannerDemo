@@ -1,0 +1,21 @@
+PODS:
+  - Scanner (1.0.0)
+
+DEPENDENCIES:
+  - Scanner (from `https://github.com/vibhor-mehrotra/Scanner.git`)
+
+EXTERNAL SOURCES:
+  Scanner:
+    :git: https://github.com/vibhor-mehrotra/Scanner.git
+
+CHECKOUT OPTIONS:
+  Scanner:
+    :commit: c3113e14e1f2faa8e1efd579a99c1ef17e3fbdba
+    :git: https://github.com/vibhor-mehrotra/Scanner.git
+
+SPEC CHECKSUMS:
+  Scanner: 20c955c4f2787e0db41e3d4f1a51252bf22e8a39
+
+PODFILE CHECKSUM: 7ee80653ac40ee422b3e3bb4f559c5936f520f5a
+
+COCOAPODS: 1.10.0
