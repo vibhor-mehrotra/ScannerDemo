@@ -38,4 +38,4 @@ However, general information regarding setup of project is as follows:
 
 ## Dependencies
 
-Scanner framework
+Scanner framework (https://github.com/vibhor-mehrotra/Scanner).
